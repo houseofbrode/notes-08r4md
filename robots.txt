@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://houseofbrode.github.io/notes-08r4md/sitemap.xml
